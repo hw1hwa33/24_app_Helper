@@ -5,4 +5,5 @@
 
 ##환경
 ### - Android studio hedgehog 2023.1.1 Patch 2
+### - API levle 28 (PIE)
 ### - Kotlin
