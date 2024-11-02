@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="basicTextView">
+        <item name="android:fontFamily"></item>
+    </style>
+
+    <style name="basicMainTitleTextView">
+
+    </style>
+
+    <style name="basicSubTitleTextView">
+
+    </style>
+
+    <style name="basicButton">
+
+    </style>
+
+    <style name="type_btn_style" parent="basicButton">
+
+    </style>
+
+    <style name="type_btn_style2" parent="basicButton">
+
+    </style>
+
+    <style name="type_btn_map_banner" parent="basicButton">
+
+    </style>
+</resources>
