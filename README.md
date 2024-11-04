@@ -17,5 +17,11 @@
 #### - REST API
 
 ### 서버 인프라 구축
-#### AWS (RDS, S3, BUKET)
+#### AWS (EC2, S3, RDS, BUKET)
 #### Spring boot
+
+### 활용 API 
+#### 식품의약품안전처_안전상비의약품 정보 : https://www.data.go.kr/data/15097208/openapi.do
+#### 안전상비의약품 정보 : https://nedrug.mfds.go.kr/pbp/CCBCA01/getList?%20totalPages=2&page=1&limit=10&sort=&sortOrder=&searchYn=&itemNa%20me=&entpName=
+#### KAKAO MAP API
+#### CHAT GPT API
