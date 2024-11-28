@@ -1,7 +1,7 @@
 # 2024 실무앱프로젝트 Helper
-## > 안드로이드 프로젝트 작업 https://github.com/ParkDaeHee3/app_helper_fe
+## 안드로이드 프로젝트 작업 https://github.com/ParkDaeHee3/app_helper_fe
 ### 프로토타입 작성 (JAVA) https://github.com/ParkDaeHee3/app_test_helper
-## > 웹 프로젝트 작업 (React) github.com/hw1hwa33/web_helper
+## 웹 프로젝트 작업 (React) github.com/hw1hwa33/web_helper
 ### 프로토타입 작성 (HTML) https://github.com/Kimgyudo/website_test_helper
 
 
